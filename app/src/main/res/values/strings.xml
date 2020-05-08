@@ -4,4 +4,5 @@
     <string name="amortization_in_years">Amortization (in years)</string>
     <string name="interest_as_an_annual_percent">Interest (as an annual percent)</string>
     <string name="monthly_payment">MONTHLY PAYMENT</string>
+    <string name="five_year_outstanding">FIVE YEAR OUTSTANDING</string>
 </resources>
